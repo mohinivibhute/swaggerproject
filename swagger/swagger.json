@@ -1,0 +1,19 @@
+{
+    "swaggerDefinition": {
+      "info": {
+        "title": "category Login API",
+        "version": "1.0.0",
+        "description": "category Login API Documentation",
+        "contact": {
+          "name": "Vbai"
+        },
+        "servers": [
+          "http://localhost:8080"
+        ]
+      }
+    },
+    "apis": [
+      "app.js",
+      "./routes/*.js"
+    ]
+  }
